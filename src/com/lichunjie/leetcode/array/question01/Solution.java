@@ -1,4 +1,4 @@
-package com.lichunjie.leetcode.day20210318.question01;
+package com.lichunjie.leetcode.array.question01;
 
 public class Solution {
     public static int removeDuplicates(int[] nums) {
